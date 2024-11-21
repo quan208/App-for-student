@@ -1,3 +1,7 @@
+> Tên Phần Mềm: TimeMate
+> 
+> Phiên bản phần mềm: 1.0
+
 Đây là dự án KHKT của các học sinh lớp 11C7 (năm học 2024 - 2025) trường THPT Bến Cát
 
 Bao gồm các thành viên:
