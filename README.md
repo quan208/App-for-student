@@ -17,3 +17,8 @@ Trong đó có phần ứng dụng tên là TimeMate v1.0 đó, bạn chỉ cầ
 ![image](https://github.com/user-attachments/assets/f5f11329-97a6-4e05-ae3b-a8f2774fdf6b)
 
 Vậy là đã tải xong rồi, chúc bạn thành công!!
+
+<h3> Trường hợp khi giải nén mà không dùng được app </h3>
+
+Vì chức năng giải nén cơ bản của máy tính nhiều khi gặp một số vấn đề, bạn nên tải WinRAR để tiện giải nén nhaa!!
+link tải: https://www.win-rar.com/download.html?&L=0
