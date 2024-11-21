@@ -2,11 +2,11 @@
 
 Bao gồm các thành viên:
 
--Vũ Minh Quân 
+- Vũ Minh Quân 
 
--Trần Tuấn Khang
+- Trần Tuấn Khang
 
--Nguyễn Quang Trung
+- Nguyễn Quang Trung
 
 và cảm ơn sự đóng góp của bạn **Đào Quốc Việt** đã hỗ trợ trong quá trình hoàn thiện sản phẩm
 
