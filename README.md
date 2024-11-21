@@ -1,3 +1,10 @@
+Đây là dự án KHKT của các học sinh lớp 11C7 (năm học 2024 - 2025) trường THPT Bến Cát
+Bao gồm các thành viên:
+Vũ Minh Quân 
+Trần Tuấn Khang
+Nguyễn Quang Trung
+và cảm ơn sự đóng góp của bạn Đào Quốc Việt đã hỗ trợ trong quá trình hoàn thiện sản phẩm
+
 <h1>Hướng dẫn tải và sử dụng</h1>
 
 Đầu tiên, bạn bấm vào nút màu xanh ở phía trên như trong hình nhé!
